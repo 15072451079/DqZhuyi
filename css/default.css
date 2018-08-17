@@ -3,12 +3,12 @@ body{margin:0;padding:0;background:rgb(224, 224, 185);font-size:12px;overflow:au
     overflow:hidden;
 }
 #content{
-    height: 500px !important;
+    height: 700px !important;
 }
 #code{
     position: absolute;
     width: 380px !important;
-    left: 30px;
+    top: 30px;
     padding: 0 10px;
 }
 #loveHeart{
