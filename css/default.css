@@ -3,11 +3,11 @@ body{margin:0;padding:0;background:rgb(224, 224, 185);font-size:12px;overflow:au
     overflow:hidden;
 }
 #content{
-    height: 700px !important;
+    height: 800px !important;
 }
 #code{
     position: absolute;
-    width: 380px !important;
+    width: 370px !important;
     top: 30px;
     padding: 0 10px;
 }
